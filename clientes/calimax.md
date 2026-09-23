@@ -32,10 +32,16 @@ Dos proyectos. Prioridad: carnicería primero, porque es lo que deja venta en ti
 - Tropicalización: Fiestas Patrias, octubre, Halloween, Acción de Gracias, Navidad y temporadas secundarias.
 - Entregables: Fase 1 diagnóstico y estrategia, Fase 2 desarrollo creativo (concepto, manual de identidad de la comunicación, guía de foto y video con banco de imágenes), Fase 3 plan de medios, lanzamiento, guía de implementación y tablero de medición.
 
+## Alcance Max Select (Luisa, 23 sep 2026)
+
+265 artículos hoy, estiman 400 en 2027. 10 categorías: papel y desechables, comida, bebé, ferretería, desayunos, hogar y limpieza, granos, golosinas y snacks, mascotas, farmacia. Luisa pidió cotizar en 3 grandes categorías con línea gráfica por subcategoría y 3 empaques por categoría:
+- Despensa (comida, desayunos, granos, golosinas y snacks): lata de verduras, pasta, cereal.
+- Hogar (papel y desechables, hogar y limpieza, ferretería, mascotas): vasos desechables, detergente, papel de baño.
+- Cuidado (bebé, farmacia): toallitas de bebé, pañales, algodón.
+La asignación de ferretería y mascotas a Hogar y de farmacia a Cuidado es nuestra; validar con Luisa.
+
 ## Pendientes de Calimax
 
-- Brief de Max Select (Luisa dijo que no tiene uno formal; lo arma).
-- Número de SKUs de marca propia y número total de marcas dentro de Calimax.
 - Trámite de NDA (correo del 23 sep a Miriam Escalera).
 - Presupuesto contemplado para carnicería y si están viendo otras agencias (no se preguntó en la junta).
 - Recorrido por tienda con Luisa.
@@ -56,13 +62,13 @@ Tres opciones solo de carnicería: A $220,956.08 · B $292,146.26 · C $398,291.
 
 ## Propuesta v3 (sep 2026, borrador)
 
-Figma: fila "CALIMAX" (20 slides). Dos proyectos por fases, más visita a Tijuana. Sin descuento.
+Figma: fila "CALIMAX" (21 slides, con slide de empaque por categoría). Dos proyectos por fases, más visita a Tijuana. Sin descuento.
 
 | Proyecto | Fases | Sin IVA | Con IVA |
 |---|---|---|---|
 | Carnicería (12 semanas) | F1 Diagnóstico y Estrategia $178,697.28 · F2 Desarrollo Creativo $122,218.36 · F3 Tienda, Medios y Navidad $177,365.74 | $478,281.38 | $554,806.40 |
-| Max Select (14 semanas, cierra ene 2027) | E1 Diagnóstico y Estrategia $145,530.93 · E2 Identidad y Empaque (5 categorías) $151,984.30 · E3 Manual de Uso y Capacitación $97,204.08 | $394,719.31 | $457,874.40 |
-| Total dos proyectos | | $873,000.69 | $1,012,680.80 |
+| Max Select (15 semanas, cierra ene 2027) | E1 Diagnóstico y Estrategia $145,530.93 · E2 Identidad y Empaque $285,262.84 (sistema base $58,455.50 + línea gráfica ×10 subcategorías $58,455.50 + empaque ×9 $168,351.84; por categoría: Despensa $79,499.48, Hogar $79,499.48, Cuidado $67,808.38) · E3 Manual de Uso y Capacitación $97,204.08 | $527,997.85 | $612,477.51 |
+| Total dos proyectos | | $1,006,279.23 | $1,167,283.91 |
 | Visita a Tijuana (2 visitas, 2 personas, a costo) | [EXP_GEN] Gastos 2 × $14,000 | $28,000.00 | $32,480.00 |
 | Producción con partners (estimado) | Pre Producción, Producción ×8 h, Post Producción 50 fotos, Film Editing, Color Correction ×2 h | $87,906.00 | $101,970.96 |
 | Adaptación de SKUs Max Select | [DES-01] Aplicación de Marca por SKU | $5,845.55 c/u | |
