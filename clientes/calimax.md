@@ -60,15 +60,18 @@ Tres opciones solo de carnicería: A $220,956.08 · B $292,146.26 · C $398,291.
 - Branding en México: rebranding de empresa grande arriba de $500K MXN según guías de mercado.
 - Probabilidad estimada: carnicería 30 a 40%, Max Select 40 a 50%. Ganar al menos uno: 55 a 65%. Juicio, no dato.
 
-## Propuesta v3 (sep 2026, borrador)
+## Propuesta v3.2 (sep 2026, borrador)
+
+Recortes tras el roundtable (desde $1,006,279.23): línea gráfica por categoría y no por subcategoría, un focus group y un benchmark menos, Navidad con 4 plantillas que produce el equipo in-house, recomendación de medios fuera.
+
 
 Figma: fila "CALIMAX" (21 slides, con slide de empaque por categoría). Dos proyectos por fases, más visita a Tijuana. Sin descuento.
 
 | Proyecto | Fases | Sin IVA | Con IVA |
 |---|---|---|---|
-| Carnicería (12 semanas) | F1 Diagnóstico y Estrategia $178,697.28 · F2 Desarrollo Creativo $122,218.36 · F3 Tienda, Medios y Navidad $177,365.74 | $478,281.38 | $554,806.40 |
-| Max Select (15 semanas, cierra ene 2027) | E1 Diagnóstico y Estrategia $145,530.93 · E2 Identidad y Empaque $285,262.84 (sistema base $58,455.50 + línea gráfica ×10 subcategorías $58,455.50 + empaque ×9 $168,351.84; por categoría: Despensa $79,499.48, Hogar $79,499.48, Cuidado $67,808.38) · E3 Manual de Uso y Capacitación $97,204.08 | $527,997.85 | $612,477.51 |
-| Total dos proyectos | | $1,006,279.23 | $1,167,283.91 |
+| Carnicería (12 semanas) | F1 Diagnóstico y Estrategia $155,337.33 (1 focus group) · F2 Desarrollo Creativo $122,218.36 · F3 Tienda y Navidad $133,801.04 (4 plantillas maestras, sin recomendación de medios) | $411,356.73 | $477,173.81 |
+| Max Select (15 semanas, cierra ene 2027) | E1 Diagnóstico y Estrategia $106,546.98 (sin focus group, 1 benchmark) · E2 Identidad y Empaque $244,343.99 (sistema base $58,455.50 + línea gráfica ×3 categorías $17,536.65 + empaque ×9 $168,351.84; por categoría $61,962.83 c/u) · E3 Manual de Uso y Capacitación $97,204.08 | $448,095.05 | $519,790.26 |
+| Total dos proyectos | | $859,451.78 | $996,964.06 |
 | Visita a Tijuana (2 visitas, 2 personas, a costo) | [EXP_GEN] Gastos 2 × $14,000 | $28,000.00 | $32,480.00 |
 | Producción con partners (estimado) | Pre Producción, Producción ×8 h, Post Producción 50 fotos, Film Editing, Color Correction ×2 h | $87,906.00 | $101,970.96 |
 | Adaptación de SKUs Max Select | [DES-01] Aplicación de Marca por SKU | $5,845.55 c/u | |
