@@ -40,19 +40,35 @@ Dos proyectos. Prioridad: carnicería primero, porque es lo que deja venta en ti
 - Presupuesto contemplado para carnicería y si están viendo otras agencias (no se preguntó en la junta).
 - Recorrido por tienda con Luisa.
 
-## Propuesta v2 (sep 2026, borrador)
+## Propuesta v2 (sep 2026, descartada)
 
-Figma: fila "CALIMAX" (16 slides). Solo carnicería, en tres opciones. Max Select queda como segunda propuesta al recibir su brief. Sin descuento (cliente nuevo). Criterio: Fase 1 y 2 con precio firme; producción aparte con partners; medios como recomendación sin compra; implementación como iguala opcional. Navidad como piloto en tienda.
+Esteban la sintió chica para el alcance del brief; se reemplazó por la v3.
 
-| Opción | Partidas | Sin IVA | Con IVA |
+Tres opciones solo de carnicería: A $220,956.08 · B $292,146.26 · C $398,291.68 (sin IVA).
+
+## Investigación (23 sep 2026)
+
+- Más de 100 tiendas (la 100 la inauguró el gobernador); unas 117 unidades según otra fuente. Aprox. 78 Calimax, 17 Aprecio, 4 Cali Xpress, 1 Bodegón. 6,170 empleos directos. 42 tiendas nuevas en 4 años con USD 35M de inversión. Presidente del consejo: Ignacio Fimbres Sánchez. Entrando a Sonora.
+- Marcas de la casa en tienda en línea: Max Select, Max Grill, Max Home, Max Baby, Cortefino.
+- Referencias de mercado: up&up (Target, COLLINS) más de 2,000 SKUs en 3 años, casi USD 3 mil millones en ventas. Soriana renovó 1,000 productos de marca propia en 2024 (1,800 en anaquel, 12 marcas propias).
+- Branding en México: rebranding de empresa grande arriba de $500K MXN según guías de mercado.
+- Probabilidad estimada: carnicería 30 a 40%, Max Select 40 a 50%. Ganar al menos uno: 55 a 65%. Juicio, no dato.
+
+## Propuesta v3 (sep 2026, borrador)
+
+Figma: fila "CALIMAX" (20 slides). Dos proyectos por fases, más visita a Tijuana. Sin descuento.
+
+| Proyecto | Fases | Sin IVA | Con IVA |
 |---|---|---|---|
-| A · Plataforma (7 semanas) | Fase 1: Discovery Workshop, Investigación de Mercado, Investigación Primaria: Survey, Definición de Estrategia de Marca, Positioning & Messaging Playbook, Big Idea · Módulo Max Grill: Arquitectura de Marca, Principios Rectores de Marca · Fase 2: Campaign Development, Identidad de Marca, Manual de Identidad, Project Management | $220,956.08 | $256,309.05 |
-| B · Plataforma + Piloto Navidad (recomendada) | A + [DES-01] Aplicación de Marca ×6, [DES-02] Campaign Rollout Toolkit, Social Media Start Kit, Campaña - Concepto y Estrategia | $292,146.26 | $338,889.66 |
-| C · Sistema completo (a enero 2027) | B + Dirección de Espacio ×2, Estrategia para Redes Sociales, Estrategia de Posicionamiento Digital, Campaña - Concepto y Estrategia ×2, Moodboard, Script Design ×2 | $398,291.68 | $462,018.35 |
-| Producción con partners (estimado) | [PRO-01] Pre Producción, [PRO-02] Producción ×8 h, Post Producción (50 Fotos), [PRO-03] Film Editing, [PRO-04] Color Correction ×2 h. Terceros aparte. | $87,906.00 | $101,970.96 |
-| Implementación y medición (opcional, desde ene 2027, mínimo 3 meses) | Producción Mensual de Contenido, Post ×8, Reel ×4, Junta Quincenal ×2 | $34,971.36/mes | $40,566.78/mes |
+| Carnicería (12 semanas) | F1 Diagnóstico y Estrategia $178,697.28 · F2 Desarrollo Creativo $122,218.36 · F3 Tienda, Medios y Navidad $177,365.74 | $478,281.38 | $554,806.40 |
+| Max Select (14 semanas, cierra ene 2027) | E1 Diagnóstico y Estrategia $145,530.93 · E2 Identidad y Empaque (5 categorías) $151,984.30 · E3 Manual de Uso y Capacitación $97,204.08 | $394,719.31 | $457,874.40 |
+| Total dos proyectos | | $873,000.69 | $1,012,680.80 |
+| Visita a Tijuana (2 visitas, 2 personas, a costo) | [EXP_GEN] Gastos 2 × $14,000 | $28,000.00 | $32,480.00 |
+| Producción con partners (estimado) | Pre Producción, Producción ×8 h, Post Producción 50 fotos, Film Editing, Color Correction ×2 h | $87,906.00 | $101,970.96 |
+| Adaptación de SKUs Max Select | [DES-01] Aplicación de Marca por SKU | $5,845.55 c/u | |
+| Implementación y medición (opcional) | Producción Mensual de Contenido, Post ×8, Reel ×4, Junta Quincenal ×2 | $34,971.36/mes | $40,566.78/mes |
 
-Cronograma: arranque 5 oct. Concepto rector 20 nov. Producción W6-W7. Navidad en tienda desde 30 nov. Opción C cierra a finales de enero 2027.
+Manual de uso de marca Max Select: 10 capítulos (fundamentos, arquitectura, logotipo, color, tipografía, iconografía y foto, sistema de empaque, información obligatoria NOM-051, plantillas, lanzamiento) + 2 workshops.
 
 ## Supuestos por validar con Esteban
 
