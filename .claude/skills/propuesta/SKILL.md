@@ -49,12 +49,22 @@ Archivo `DwUyxMm9NaePTXl0wmOfmW`. Carga antes la skill `figma-use` y `figma-use-
 
 **Tarjetas:** título "Etapa N · Nombre", precio "$ 25.9 K", Equipo (lista), Alcance (lista: nivel 1 = partida, nivel 2 = detalle), SLA, Entregables. Si el texto se sale de la tarjeta, recorta: máximo 4 o 5 líneas de nivel 2 por tarjeta.
 
+**Propuestas grandes (dos proyectos o más de $400K), como Calimax:**
+
+- Agrega un resumen ejecutivo después de la carta y una sola slide de desglose dividida en 3 columnas: proyecto 1, proyecto 2, viáticos y opcionales. Cada fase con su monto y, abajo en gris, los productos de Odoo. Referencia: el resumen de Brands&People (Drive, "B&P_SOW_Yuyo_Oct02.pdf").
+- Opcionales en su propia slide, titulada "Opcionales" y marcada "Fuera del alcance", para que no se confundan con el proyecto.
+- Una slide de "zoom" (detalle de una etapa) nunca lleva precios; dice "Incluido en la Etapa N".
+- Equipo por fase con Strategy Lead y Project Manager; Jr. Designer en fases de diseño. Project Management va como partida en cada fase.
+- Entregables concretos y contables ("12 piezas", "9 empaques", "2 guiones de 20 segundos"). Nada de "plataforma", "presentados en persona" o "calendario anual" sin decir qué incluye.
+- Archivos para imprenta en Illustrator e InDesign (CMYK). Nunca ofrecer Figma como formato de entrega de impresos.
+- "Desglose" y "Link al desglose" solo en slides con precios.
+
 **Detalles técnicos que ya costaron tiempo:**
 
 - `get_metadata` no funciona en Slides. Inspecciona con scripts de `use_figma` y lee IDs de texto antes de editar.
 - Fuente principal: Instrument Sans (Regular, Medium, Bold). Carga la fuente antes de editar.
 - La fuente **Supply** (etiquetas W1, W2… y E1, E2… del cronograma) no se puede cargar. No cambies su texto; solo mueve u oculta esos nodos.
-- El pie de página es un componente. El texto "Title of the presentation" se cambia con override por fila, nunca en el componente principal, porque cambia todas las filas. Cleber = "CLEBER", Click&Ship = "C&S".
+- El pie de página es un componente. El texto "Title of the presentation" se cambia con override por fila, nunca en el componente principal, porque cambia todas las filas. Cleber = "CLEBER", Click&Ship = "C&S", Calimax = "CALIMAX". Al terminar, revisa que los pies de la fila sigan con el nombre correcto: el 24 sep 2026 todas las filas amanecieron con "Salvaje".
 - Naranja de marca: `{r:1, g:0.3725, b:0.0039}`.
 - Listas con viñetas: después de cambiar `characters`, aplica `setRangeListOptions(start,end,{type:'UNORDERED'})` y `setRangeIndentation(start,end,nivel)` línea por línea.
 - Cronograma: la grilla va de x=162 a x=1880 en 12 columnas. Para proyectos cortos, usa 2 columnas por semana y oculta las etiquetas sobrantes.

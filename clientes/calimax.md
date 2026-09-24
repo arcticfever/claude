@@ -60,29 +60,42 @@ Tres opciones solo de carnicería: A $220,956.08 · B $292,146.26 · C $398,291.
 - Branding en México: rebranding de empresa grande arriba de $500K MXN según guías de mercado.
 - Probabilidad estimada: carnicería 30 a 40%, Max Select 40 a 50%. Ganar al menos uno: 55 a 65%. Juicio, no dato.
 
-## Propuesta v3.2 (sep 2026, borrador)
+## Propuesta v3.2 (sep 2026, reemplazada)
 
-Recortes tras el roundtable (desde $1,006,279.23): línea gráfica por categoría y no por subcategoría, un focus group y un benchmark menos, Navidad con 4 plantillas que produce el equipo in-house, recomendación de medios fuera.
+Total $859,451.78 sin IVA. Reemplazada por la v4 tras los comentarios de Esteban del 24 sep.
 
+## Propuesta v4 (24 sep 2026, borrador)
 
-Figma: fila "CALIMAX" (21 slides, con slide de empaque por categoría). Dos proyectos por fases, más visita a Tijuana. Sin descuento.
+Figma: fila "CALIMAX", 22 slides activas + 3 desgloses viejos marcados como skipped ("Obsoleto · desglose anterior"). Referencia de formato: propuesta de Brands&People a Yuyo (Drive, "B&P_SOW_Yuyo_Oct02.pdf").
+
+Orden: portada, carta, resumen ejecutivo, clientes, 01, testimonio, contexto carnicería, hipótesis del brief, visita a tienda 01 y 02 (lorem ipsum y placeholders de foto; Esteban pega el guion y las fotos del cliente misterioso), contexto Max Select, quién hace qué, forma de trabajo (calendario semanal y fechas clave), 02, carnicería, Max Select, empaque (detalle de la Etapa 2, sin precios), manual de uso, opcionales, inversión, cronograma, desglose en una slide (3 columnas).
 
 | Proyecto | Fases | Sin IVA | Con IVA |
 |---|---|---|---|
-| Carnicería (12 semanas) | F1 Diagnóstico y Estrategia $155,337.33 (1 focus group) · F2 Desarrollo Creativo $122,218.36 · F3 Tienda y Navidad $133,801.04 (4 plantillas maestras, sin recomendación de medios) | $411,356.73 | $477,173.81 |
-| Max Select (15 semanas, cierra ene 2027) | E1 Diagnóstico y Estrategia $106,546.98 (sin focus group, 1 benchmark) · E2 Identidad y Empaque $244,343.99 (sistema base $58,455.50 + línea gráfica ×3 categorías $17,536.65 + empaque ×9 $168,351.84; por categoría $61,962.83 c/u) · E3 Manual de Uso y Capacitación $97,204.08 | $448,095.05 | $519,790.26 |
-| Total dos proyectos | | $859,451.78 | $996,964.06 |
+| Carnicería (11 semanas) | F1 Diagnóstico y Estrategia $160,719.33 (4 semanas) · F2 Desarrollo Creativo $127,600.36 (3 semanas) · F3 Tienda y Navidad $130,996.60 (4 semanas: 12 aplicaciones, señalización 6 zonas en 2 tamaños, guía de implementación con Campaign Rollout Toolkit, Navidad con Campaña - Concepto y Estrategia) | $419,316.29 | $486,406.90 |
+| Max Select (13 semanas + 1 mes de acompañamiento) | E1 Diagnóstico y Estrategia $111,928.98 · E2 Identidad y Empaque $258,920.21 (incluye Ronda de Revisión - Producción ×9 como supervisión de preprensa) · E3 Manual de Uso y Capacitación $88,353.68 (incluye Junta Quincenal ×2 como acompañamiento del primer mes) | $459,202.87 | $532,675.33 |
+| Total dos proyectos | | $878,519.16 | $1,019,082.23 |
 | Visita a Tijuana (2 visitas, 2 personas, a costo) | [EXP_GEN] Gastos 2 × $14,000 | $28,000.00 | $32,480.00 |
-| Producción con partners (estimado) | Pre Producción, Producción ×8 h, Post Producción 50 fotos, Film Editing, Color Correction ×2 h | $87,906.00 | $101,970.96 |
-| Adaptación de SKUs Max Select | [DES-01] Aplicación de Marca por SKU | $5,845.55 c/u | |
-| Implementación y medición (opcional) | Producción Mensual de Contenido, Post ×8, Reel ×4, Junta Quincenal ×2 | $34,971.36/mes | $40,566.78/mes |
+| Opcional · Sesión de foto y video | Pre Producción, Producción ×8 h, Post Producción (50 Fotos), Film Editing, Color Correction ×2 h; terceros aparte | $87,906.00 | $101,970.96 |
+| Opcional · Imágenes con IA | Ilustraciones, paquete de 10 imágenes | $9,352.88 | |
+| Opcional · Adaptación de artículos Max Select | [DES-01] Aplicación de Marca con 50% por volumen | $2,922.78 c/u | |
+| Opcional · Partners | Partners [Transformación] desde enero 2027 | $28,704.00/mes | $33,296.64/mes |
 
-Manual de uso de marca Max Select: 10 capítulos (fundamentos, arquitectura, logotipo, color, tipografía, iconografía y foto, sistema de empaque, información obligatoria NOM-051, plantillas, lanzamiento) + 2 workshops.
+Cambios clave pedidos por Esteban: Project Management en cada fase; Strategy Lead en todas las fases, Jr. Designer en creativo e identidad; mismo equipo en la Fase 3 (Arctic no le pasa la ejecución a Calimax); archivos de imprenta en Illustrator e InDesign (Figma no maneja CMYK); sin "plataforma" ni "presentados en persona" como entregables; la iguala de contenido se cambió por Partners.
+
+Cronograma: arranque 5 oct. Carnicería: estrategia 30 oct, concepto 20 nov, Navidad lista para imprimir 27 nov, cierre 18 dic. Max Select: empaques aprobados 18 dic, manual y capacitación en enero, acompañamiento en febrero. Visitas a Tijuana en semanas 1 y 4.
 
 ## Supuestos por validar con Esteban
 
-- Monto de entrada ($221K la Opción A) sin conocer presupuesto.
-- Survey como sustento de insights por perfil; un focus group sería más sólido pero más caro.
-- Producción estimada en 1 día de rodaje; food stylist, locación, talento y radio se cotizan con partners.
-- Dirección de Espacio ×2 para el manual de señalización asume 2 formatos de tienda y un partner para planos.
-- Implementación con mínimo de 3 meses (antes se había puesto 6).
+- Total $878.5K (+$19K sobre la v3.2): 8 aplicaciones más, preprensa y acompañamiento, compensado en parte al quitar redes y calendario anual de la Fase 3.
+- Imágenes con IA cotizadas con el producto "Ilustraciones" ($9,352.88 por 10 imágenes).
+- Adaptación de artículos a 50% del precio de lista: requiere descuento de línea en Odoo.
+- Qué incluye exactamente Partners [Transformación] en volumen de piezas; plazo mínimo de 3 meses.
+- Navidad en tienda depende de que los proveedores de impresión de Calimax produzcan en la primera semana de diciembre.
+- Asignación de ferretería y mascotas a Hogar y farmacia a Cuidado.
+
+## Pendientes
+
+- Guion y fotos del cliente misterioso (2 tiendas) para las slides de visita.
+- Presupuesto y competencia (preguntar antes de enviar).
+- NDA.
