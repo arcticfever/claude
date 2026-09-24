@@ -16,7 +16,7 @@ Montos sin IVA, en MXN. "Estado" solo se llena cuando se sabe. Actualizar cada v
 | Arlus Constructores | 2026 | Estrategia + web | Alineación y Estrategia Web $47.8K · Diseño Web $57K · Desarrollo Web $40.5K · **Total $145.3K** | Sin dato |
 | Buenaventura | 2026 | Branding desde cero | Estrategia de Marca $34.8K · Identidad Visual $30.4K · Manual de Identidad $28.1K · **Total $93.3K** | Sin dato |
 | Finso by Cohete | 2026 | Transición de marca + rebranding | Transición operativa $72,900 · Consolidación $54,000 (mes 2 a 4) · Investigación y Conceptualización $76K · Identidad Visual $77K · Aplicaciones $65K · Web $74K | Sin dato |
-| Christine Vroom Interiors (Salvaje) | sep 2026 | Iguala Partners de diseño para lanzamiento | Partners [Transformación] **$3,000 USD/mes** × 6 (oct 2026 a mar 2027) = $18,000 USD · 40 h/mes · Opciones ofrecidas: Inicial $1,800 · Transformación $3,000 · Boost $4,500 | Aceptada de palabra 23 sep 2026. Contrato enviado 24 sep para firma. |
+| Christine Vroom Interiors (Salvaje) | sep 2026 | Iguala Partners de diseño para lanzamiento | Partners [Transformación] **$3,000 USD/mes** × 6 (oct 2026 a mar 2027) = $18,000 USD · 40 h/mes · Opciones ofrecidas: Inicial $1,800 · Transformación $3,000 · Boost $4,500 | Aceptada de palabra 23 sep 2026. Contrato enviado 24 sep para firma. Cotización S00722. |
 
 ## Patrones
 
