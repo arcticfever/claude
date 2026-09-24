@@ -26,6 +26,7 @@ Figma: fila "Salvaje" (arriba), en inglés. Slides 9 a 12 (media de Palm) quedar
 - 2 rondas de revisión por pieza. Horas no usadas no se acumulan. Extras a $75 USD/h o cotizados aparte.
 - No incluye impresión, foto/video, renders, pauta ni web nueva.
 - Terminación con 30 días de aviso.
+- Comisiones bancarias, de transferencia, de tipo de cambio o de plataforma de pago corren por cuenta de Christine (agregado 24 sep 2026, cláusula 4).
 
 Contrato: `contratos/salvaje_partners_agreement_2026-09.md` y PDF en la misma carpeta. Se firma por Adobe Sign.
 
@@ -38,4 +39,4 @@ Contrato: `contratos/salvaje_partners_agreement_2026-09.md` y PDF en la misma ca
 
 ## Cotización en Odoo (preparada 24 sep 2026)
 
-Una sola cotización, recurrente mensual, en USD. Producto Partners [Transformación], 1 × $3,000 USD. Inicio 1 oct 2026, fin 31 mar 2027. Sin IVA si aplica exportación de servicios (confirmar con contador); con 16% serían $3,480 USD/mes. Texto de captura en la respuesta de la sesión del 24 sep 2026.
+Una sola cotización, recurrente mensual, en USD. Producto Partners [Transformación], 1 × $3,000 USD. Inicio 1 oct 2026, fin 31 mar 2027. IVA: el precio de $3,000 se comunicó sin mencionar impuestos y el contrato no los menciona. Tratarlo como exportación de servicios al 0% (confirmar con contador que diseño/branding para residente en el extranjero entra en art. 29 LIVA). Si el contador dice 16%, o se absorbe ($2,586.21 + IVA = $3,000) o se le avisa antes de firmar. Texto de captura en la respuesta de la sesión del 24 sep 2026.

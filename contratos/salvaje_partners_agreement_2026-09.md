@@ -48,6 +48,8 @@ If the Client delays feedback or inputs (renderings, product information, approv
 
 Arctic Fever invoices at the end of each month of service, starting October 31, 2026. Each invoice is due within 10 days of its date. Payment instructions are included on each invoice.
 
+All payments are made in USD. Any bank, wire transfer, currency exchange or payment platform fees are covered by the Client, so that Arctic Fever receives the full invoiced amount.
+
 Fees do not include third-party costs such as printing, stock images, fonts, hosting, apps or shipping. These are approved by the Client in advance and either paid directly by the Client or billed at cost.
 
 Late payments may result in a pause of work until the balance is settled.
