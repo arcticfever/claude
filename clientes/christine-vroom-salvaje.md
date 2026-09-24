@@ -35,3 +35,7 @@ Contrato: `contratos/salvaje_partners_agreement_2026-09.md` y PDF en la misma ca
 - Pago a 10 días, extras a $75 USD/h (equivale a la tarifa de la iguala) y terminación con 30 días: no estaban en el correo del 21 sep.
 - Odoo: Partners [Transformación] tiene precio de lista $28,704 MXN. Aquí se cobra $3,000 USD, lo que se le dijo a Christine. Hay que capturarla con lista de precios en USD y Plan recurrente Mensual.
 - Comisión de John: Christine contrata directo, falta decidir si aplica el esquema de comisión de littleMUCHO.
+
+## Cotización en Odoo (preparada 24 sep 2026)
+
+Una sola cotización, recurrente mensual, en USD. Producto Partners [Transformación], 1 × $3,000 USD. Inicio 1 oct 2026, fin 31 mar 2027. Sin IVA si aplica exportación de servicios (confirmar con contador); con 16% serían $3,480 USD/mes. Texto de captura en la respuesta de la sesión del 24 sep 2026.
