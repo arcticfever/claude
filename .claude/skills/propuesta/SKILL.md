@@ -51,12 +51,14 @@ Archivo `DwUyxMm9NaePTXl0wmOfmW`. Carga antes la skill `figma-use` y `figma-use-
 
 **Propuestas grandes (dos proyectos o más de $400K), como Calimax:**
 
-- Agrega un resumen ejecutivo después de la carta y una sola slide de desglose dividida en 3 columnas: proyecto 1, proyecto 2, viáticos y opcionales. Cada fase con su monto y, abajo en gris, los productos de Odoo. Referencia: el resumen de Brands&People (Drive, "B&P_SOW_Yuyo_Oct02.pdf").
+- Estructura v5 (Calimax, sep 2026), basada en el SOW de Brands&People pero con branding de Arctic: portada de alcance después de la portada; "Líneas de acción" con fotos antes de hablar de precio; separador con número y color por proyecto; una tabla por proyecto (columnas = fases; filas = inversión, incluye, tiempo, responsable, entregable con formato; total abajo); tabla de opcionales; "Resumen de propuesta" con una fila por proyecto; términos y condiciones en cuadrícula; cierre "Gracias" con aviso de confidencialidad, derechos y privacidad. El precio aparece una vez por fase y una vez en el resumen. El detalle por partida de Odoo va en la cotización formal, no en el deck.
+- Un módulo regalado se muestra con precio tachado y "Incluido" en naranja (en Odoo, descuento de 100%). No usar "ajuste comercial".
+- Empaques y piezas se entregan como diseño y visualización con editables en medidas estándar; planos mecánicos, salidas a imprenta y preprensa son opcionales.
 - Opcionales en su propia slide, titulada "Opcionales" y marcada "Fuera del alcance", para que no se confundan con el proyecto.
 - Una slide de "zoom" (detalle de una etapa) nunca lleva precios; dice "Incluido en la Etapa N".
 - Equipo por fase con Strategy Lead y Project Manager; Jr. Designer en fases de diseño. Project Management va como partida en cada fase.
 - Entregables concretos y contables ("12 piezas", "9 empaques", "2 guiones de 20 segundos"). Nada de "plataforma", "presentados en persona" o "calendario anual" sin decir qué incluye.
-- Archivos para imprenta en Illustrator e InDesign (CMYK). Nunca ofrecer Figma como formato de entrega de impresos.
+- Editables y plantillas en Illustrator e InDesign (CMYK). Nunca ofrecer Figma como formato de entrega de impresos.
 - "Desglose" y "Link al desglose" solo en slides con precios.
 
 **Detalles técnicos que ya costaron tiempo:**

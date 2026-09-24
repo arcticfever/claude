@@ -64,7 +64,7 @@ Tres opciones solo de carnicería: A $220,956.08 · B $292,146.26 · C $398,291.
 
 Total $859,451.78 sin IVA. Reemplazada por la v4 tras los comentarios de Esteban del 24 sep.
 
-## Propuesta v4 (24 sep 2026, borrador)
+## Propuesta v4 (24 sep 2026, reemplazada por v5)
 
 Figma: fila "CALIMAX", 22 slides activas + 3 desgloses viejos marcados como skipped ("Obsoleto · desglose anterior"). Referencia de formato: propuesta de Brands&People a Yuyo (Drive, "B&P_SOW_Yuyo_Oct02.pdf").
 
@@ -85,9 +85,26 @@ Cambios clave pedidos por Esteban: Project Management en cada fase; Strategy Lea
 
 Cronograma: arranque 5 oct. Carnicería: estrategia 30 oct, concepto 20 nov, Navidad lista para imprimir 27 nov, cierre 18 dic. Max Select: empaques aprobados 18 dic, manual y capacitación en enero, acompañamiento en febrero. Visitas a Tijuana en semanas 1 y 4.
 
+## Propuesta v5 (24 sep 2026, borrador vigente)
+
+Estructura inspirada en el SOW de Brands&People a Yuyo, con el branding de Arctic. 25 slides activas; las de la v4 que se reemplazaron quedan como skipped al final de la fila.
+
+Orden: portada, portada de alcance (Arctic Fever & Calimax, semana 39, presenta Esteban), carta, líneas de acción (5 fotos por pegar), clientes, 01, testimonio, contexto carnicería, hipótesis, visitas 01 y 02, contexto Max Select, quién hace qué, forma de trabajo, separador 02 Carnicería (naranja), tabla Carnicería, separador 03 Max Select (negro), tabla Max Select, empaque (detalle sin precios), manual de uso, opcionales (tabla), cronograma, resumen de propuesta (una fila por proyecto), términos y condiciones (10 cláusulas), gracias con aviso de confidencialidad, derechos y privacidad.
+
+| Proyecto | Fases | Sin IVA | Con IVA |
+|---|---|---|---|
+| Carnicería (11 semanas) | F1 Diagnóstico y Estrategia $147,960.93 · Módulo Max Grill $12,758.40 tachado, incluido sin costo · F2 Desarrollo Creativo $127,600.36 · F3 Tienda y Navidad $130,996.60 | $406,557.89 | $471,607.15 |
+| Max Select (13 semanas + 1 mes) | E1 Diagnóstico y Estrategia $111,928.98 · E2 Identidad y Empaque $249,725.99 (visualización de 9 empaques, sin preprensa) · E3 Manual de Uso y Capacitación $88,353.68 | $450,008.65 | $522,010.03 |
+| Total dos proyectos | | $856,566.54 | $993,617.19 |
+
+Opcionales: salidas a imprenta y preprensa (se cotiza aparte), sesión de foto y video $87,906, imágenes con IA $9,352.88 por 10, adaptación de artículos $2,922.78 c/u, Partners [Transformación] $28,704/mes. Viáticos Tijuana $28,000 a costo.
+
+Decisiones de Esteban (24 sep): empaques y piezas como diseño y visualización con editables en medidas estándar, igual que Brands&People; salidas a imprenta como opcional. Max Grill como precio tachado (en Odoo: partidas con 100% de descuento). Sin ajuste comercial. Aviso de confidencialidad y privacidad al final.
+
 ## Supuestos por validar con Esteban
 
-- Total $878.5K (+$19K sobre la v3.2): 8 aplicaciones más, preprensa y acompañamiento, compensado en parte al quitar redes y calendario anual de la Fase 3.
+- Términos y condiciones de la v5 son borrador: anticipo 50/50, pago a 30 días, 10 días hábiles para aprobar, rutas no elegidas propiedad de Arctic, uso en portafolio. Validar con Paola.
+- Salidas a imprenta y preprensa sin precio ("se cotiza aparte").
 - Imágenes con IA cotizadas con el producto "Ilustraciones" ($9,352.88 por 10 imágenes).
 - Adaptación de artículos a 50% del precio de lista: requiere descuento de línea en Odoo.
 - Qué incluye exactamente Partners [Transformación] en volumen de piezas; plazo mínimo de 3 meses.
