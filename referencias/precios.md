@@ -13,6 +13,7 @@ Montos sin IVA, en MXN. "Estado" solo se llena cuando se sabe. Actualizar cada v
 | Logistorage (Click&Ship) | sep 2026 | Rediseño web | Mensaje y Arquitectura $25.9K · Diseño Web $18.6K · Desarrollo Web $12.4K · Sub-total $56,954.40 · Cliente Recurrente -10% · **Total $51,258.96** | Enviada 22 sep 2026 |
 | Orange Academy | sep 2026 | Branding + videos de módulo | [DES-00] Proyecto Branding $35,000 · [PRO-01] Proyecto Producción 10 × $37,000 · **Subtotal $405,000** (S00702) | Orden de venta confirmada |
 | Cleber | sep 2026 | Comunicación interna | Despliegue Visión 2030 $35.9K · Manual de Comunicación Interna $85.4K · **Proyectos $121,275.65** · Iguala $42,901.04/mes | Cotización S00710 creada. Pendiente de presentar a Débora y Priscila. |
+| Calimax | sep 2026 | Comunicación de carnicería + marca propia Max Select (265 SKUs, 3 categorías, 9 empaques, manual de uso) | Carnicería F1 $148.0K · Max Grill $12.8K tachado (incluido) · F2 $127.6K · F3 $131.0K = **$406,557.89** · Max Select E1 $111.9K · E2 $249.7K · E3 $88.4K = **$450,008.65** · **Total $856,566.54** + viáticos $28K a costo · Opcionales aparte | Borrador v5 en Figma. Falta presupuesto, NDA y visita de cliente misterioso. |
 | Arlus Constructores | 2026 | Estrategia + web | Alineación y Estrategia Web $47.8K · Diseño Web $57K · Desarrollo Web $40.5K · **Total $145.3K** | Sin dato |
 | Buenaventura | 2026 | Branding desde cero | Estrategia de Marca $34.8K · Identidad Visual $30.4K · Manual de Identidad $28.1K · **Total $93.3K** | Sin dato |
 | Finso by Cohete | 2026 | Transición de marca + rebranding | Transición operativa $72,900 · Consolidación $54,000 (mes 2 a 4) · Investigación y Conceptualización $76K · Identidad Visual $77K · Aplicaciones $65K · Web $74K | Sin dato |
@@ -20,6 +21,7 @@ Montos sin IVA, en MXN. "Estado" solo se llena cuando se sabe. Actualizar cada v
 ## Patrones
 
 - Una web de 4 páginas (diseño + desarrollo) ha ido de $45K (2025) a $57K (Arlus 2026). Con estrategia de mensaje incluida, $57K a $145K según profundidad.
-- Branding completo (estrategia + identidad + manual) ronda $93K a $153K.
+- Branding completo (estrategia + identidad + manual) ronda $93K a $153K en clientes medianos. Con un retail regional de 100+ tiendas (Calimax) el alcance real del brief lleva el proyecto a $400K a $500K por frente.
 - Los retainers de marketing de $54K al mes no han cerrado con clientes medianos. Con clientes sensibles a precio conviene un proyecto cerrado primero.
 - El descuento de cliente recurrente (-5% o -10%) aparece en todas las propuestas aceptadas de Logistorage.
+- Referencia de competencia: Brands&People a Yuyo (oct 2025): Branding $280K (5 semanas, empaques solo en maqueta, sin salidas a imprenta) + Comunicación $490K (6 semanas) + add-ons $120K = $820K de lista, "ajuste comercial" de -27% y total $600K + IVA, facturado en 4 pagos mensuales. Presentan cada módulo con precio, tiempo, responsable y entregable, y cierran con un resumen de propuesta en una sola slide.
