@@ -111,8 +111,15 @@ Decisiones de Esteban (24 sep): empaques y piezas como diseño y visualización 
 - Navidad en tienda depende de que los proveedores de impresión de Calimax produzcan en la primera semana de diciembre.
 - Asignación de ferretería y mascotas a Hogar y farmacia a Cuidado.
 
+## Visita de cliente misterioso (24 sep 2026, noche)
+
+Dos tiendas; sucursales por confirmar.
+- Tienda 1: estacionamiento rápido, saludo en la entrada, carnicería a 30 segundos, carnicero atento de inmediato ("¿En qué las puedo ayudar?"). Se acabó el producto en vitrina y sacó más sin explicar. En caja no hubo saludo ni indicación de pago (el tap va dos veces). Lugar muy limpio.
+- Tienda 2: la carnicería tardó un minuto en encontrarse. Varios carniceros y nadie saludó ni se acercó. Servicio rápido ya con el pedido, producto completo. En caja sí saludaron y explicaron el pago; personal de bolsas amable y con años en la tienda. El de la entrada no saludó primero.
+- Hallazgo para la propuesta: el despacho personalizado depende de quién esté en el mostrador; no es consistente entre tiendas.
+
 ## Pendientes
 
-- Guion y fotos del cliente misterioso (2 tiendas) para las slides de visita.
+- Fotos de las visitas y nombres de las sucursales para las slides de visita.
 - Presupuesto y competencia (preguntar antes de enviar).
 - NDA.
