@@ -122,7 +122,12 @@ Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8
 ### Última pasada de copy (1 oct)
 
 Lenguaje decisivo aplicado: carta ("Vamos a trabajar los dos proyectos en paralelo, con la carnicería primero. Arrancamos en Tijuana..."), preguntas con segunda línea en gris ("Ajustar dos tiendas es fácil. Lo difícil es que las más de 110 se sientan igual." / "Sin sistema, cada artículo nuevo es un producto suelto."), Gracias "1. Elegir la opción". Esteban reordenó Opciones (Entrada, Recomendada, Completa) y cambió la última pregunta a "¿Cuál es el factor de decisión?".
-Pendiente de decidir: anticipo 33% en el Gracias contra 50/50 en términos; orden de opciones (Enns ancla con la más alta primero); garantía en Fase 1; entregable rápido para el mostrador; mover Nico antes de Opciones.
+Aplicado con el "adelante" de Esteban:
+- Garantía en Método: "Si al cerrar la Fase 1 la estrategia no los convence, la rehacemos una vez sin costo."
+- Estándar de mostrador (saludo, pregunta y recomendación de corte) en la Fase 1, listo el 20 nov, incluido sin costo (Script Design $6,129.48 con 100% de descuento en Odoo). Sale de las notas de campo.
+- Opciones de vuelta a Completa, Recomendada (naranja), Entrada.
+- Facturación en términos: un tercio al arrancar cada fase (33%, 33%, 34%), para cuadrar con el "anticipo (33%)" que Esteban puso en el Gracias. Confirmar con Paola.
+- Flujo final: CALIMAX (22) termina en "Identificando el éxito"; Caso Nico (Portafolio) antes del precio; Cierre: Opciones, "¿Cuál es el factor de decisión?", Gracias, Gracias multilingüe; Anexo al final.
 
 ### Tiempos más largos (1 oct, noche)
 

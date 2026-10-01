@@ -24,6 +24,7 @@ Total esperado: **Subtotal $406,557.89 · IVA $65,049.26 · Total $471,607.15**
 | Positioning & Messaging Playbook | 1 | $21,802.62 |
 | Big Idea | 1 | $9,806.40 |
 | Project Management | 1 | $5,382.00 |
+| Script Design | 1 | $6,129.48 (descuento 100%) |
 
 ```
 Recorrido por tiendas en Tijuana
@@ -31,7 +32,8 @@ Entrevistas con dirección, carniceros y planta PPC
 Competencia en Baja California y Sonora
 Focus group con parrillero y guisado diario
 Posicionamiento, mensajes por perfil e idea rectora
-Entregable: PDF con estrategia y 2 o 3 rutas de concepto
+Estándar de mostrador para las más de 110 tiendas (incluido sin costo)
+Entregable: PDF con estrategia, 2 o 3 rutas de concepto y estándar de mostrador
 ETD 6 semanas
 ```
 
@@ -94,6 +96,8 @@ ETD 6 semanas
 ```
 Tiempo total: 17 semanas de trabajo desde el arranque, más la pausa del 21 de diciembre al 1 de enero.
 Arranque sujeto a firma de NDA, orden de compra y anticipo.
+Facturación: un tercio al arrancar cada fase (33%, 33% y 34%), pago a 30 días.
+Garantía: si al cerrar la Fase 1 la estrategia no los convence, se rehace una vez sin costo.
 No incluye salidas a imprenta, impresión, instalación, medios, pauta, producción audiovisual ni creadores.
 Viáticos a Tijuana a costo real contra comprobantes.
 ```
@@ -169,6 +173,8 @@ ETD 5 semanas, más 1 mes de acompañamiento
 ```
 Tiempo total: 19 semanas de trabajo más 1 mes de acompañamiento.
 Arranque sujeto a firma de NDA, orden de compra y anticipo.
+Facturación: un tercio al arrancar cada fase (33%, 33% y 34%), pago a 30 días.
+Garantía: si al cerrar la Fase 1 la estrategia no los convence, se rehace una vez sin costo.
 No incluye planos mecánicos, salidas a imprenta, pruebas de color ni adaptación de artículos adicionales (se cotizan aparte).
 ```
 
