@@ -119,6 +119,17 @@ Montos sin cambio: $856,566.54 + IVA.
 
 Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8dY6U35jIsKk` (https://www.figma.com/slides/F5JsCibG0E8dY6U35jIsKk). Ahí también están los casos de estudio (Nico de Arca Continental, 21 slides, en inglés; Xignux, 8; Majaztec, 7) y una fila final de "Gracias". Al copiar la fila se perdieron los skips: se volvieron a marcar las 10 slides del v4 y una portada ajena ("Research & Concept for Hardcore Architecture", 21 sep) que quedó como primera slide. La fila del archivo de propuestas `DwUyxMm9NaePTXl0wmOfmW` queda como respaldo; los cambios nuevos van en el archivo nuevo.
 
+### Junta de revisión (1 oct 2026, Meet, Luisa y Natalia)
+
+- Problemas técnicos los primeros 12 minutos (Figma borroso, se mandó PDF por WhatsApp). Natalia entró tarde, ya iniciada la junta.
+- Natalia: todo tendría que terminar prácticamente este año. El calendario a abril no le cuadra. Luisa: "a lo mejor el alcance de este año sería esto".
+- Natalia: ya tienen un proyecto interno para estandarizar la experiencia de carnicería (cortes, servicio, equipo, imagen; hoy cada tienda se ve según el año en que se remodeló). Lo que buscan del branding es comunicar ese trabajo.
+- Natalia pidió una tercera propuesta: solo Max Select, solo diseño (rediseño de logo, empaques, manual, línea gráfica), sin campaña ni estrategia.
+- Luisa confirmó que los artículos de Max Select salen sin plan de lanzamiento; Natalia: "a veces internamente no sabíamos que existía".
+- Cierre de Natalia: lo revisan entre ellas y avisan la siguiente semana. Sin compromiso.
+- Errores en voz: la Completa se dijo "1,30,000"; Partners "dos meses" (son tres); Nico "130 promotores" (el deck dice 97).
+- Opción nueva calculada: Max Select solo diseño = Etapa 2 + Etapa 3 = $338,079.67 + IVA ($392,172.42). Con arquitectura y principios rectores: $350,838.07 + IVA.
+
 ### Consenso final (1 oct)
 
 Lectura completa del recorrido activo y consenso con el canon (Enns, Hormozi, Chris Do, Bravo, Schwartz, Cialdini): lista para presentar, ~86/100. Ajustes finales: avisos legales solo en la slide final de Gracias (Esteban la rediseñó con "Gracias" en varios idiomas); notas de campo de la segunda tienda conectadas con la guía de atención de la Fase 1. Probabilidad estimada de cerrar al menos la Entrada: 65 a 75% (juicio, no dato).
