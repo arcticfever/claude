@@ -49,16 +49,35 @@ Archivo `DwUyxMm9NaePTXl0wmOfmW`. Carga antes la skill `figma-use` y `figma-use-
 
 **Tarjetas:** título "Etapa N · Nombre", precio "$ 25.9 K", Equipo (lista), Alcance (lista: nivel 1 = partida, nivel 2 = detalle), SLA, Entregables. Si el texto se sale de la tarjeta, recorta: máximo 4 o 5 líneas de nivel 2 por tarjeta.
 
+**Propuestas grandes (dos proyectos o más de $400K), como Calimax:**
+
+- Estructura v5 (Calimax, sep 2026), basada en el SOW de Brands&People pero con branding de Arctic: portada de alcance después de la portada; "Líneas de acción" con fotos antes de hablar de precio; separador con número y color por proyecto; una tabla por proyecto (columnas = fases; filas = inversión, incluye, tiempo, responsable, entregable con formato; total abajo); tabla de opcionales; "Resumen de propuesta" con una fila por proyecto; términos y condiciones en cuadrícula; cierre "Gracias" con aviso de confidencialidad, derechos y privacidad. El precio aparece una vez por fase y una vez en el resumen. El detalle por partida de Odoo va en la cotización formal, no en el deck.
+- Un módulo regalado se muestra con precio tachado y "Incluido" en naranja (en Odoo, descuento de 100%). No usar "ajuste comercial".
+- Empaques y piezas se entregan como diseño y visualización con editables en medidas estándar; planos mecánicos, salidas a imprenta y preprensa son opcionales.
+- Opcionales en su propia slide, titulada "Opcionales" y marcada "Fuera del alcance", para que no se confundan con el proyecto.
+- Una slide de "zoom" (detalle de una etapa) nunca lleva precios; dice "Incluido en la Etapa N".
+- Equipo por fase con Strategy Lead y Project Manager; Jr. Designer en fases de diseño. Project Management va como partida en cada fase.
+- Entregables concretos y contables ("12 piezas", "9 empaques", "2 guiones de 20 segundos"). Nada de "plataforma", "presentados en persona" o "calendario anual" sin decir qué incluye.
+- Editables y plantillas en Illustrator e InDesign (CMYK). Nunca ofrecer Figma como formato de entrega de impresos.
+- "Desglose" y "Link al desglose" solo en slides con precios.
+- Opciones al cierre, como pide Blair Enns: Completa, Recomendada (en naranja, al centro) y Entrada, armadas solo con fases y partidas del catálogo. El dinero aparece una sola vez, en la slide de Opciones. Las tablas por proyecto muestran solo alcance (incluye, tiempo, responsable, entregable), sin fila de inversión ni columna de total; si llevan precio, las opciones se leen como una segunda propuesta. El desglose por partida va en la cotización de Odoo.
+- Diseño de tablas (Calimax, slide 55 de Esteban): sin cajas, líneas horizontales finas, etiquetas de fila a la izquierda, encabezados de columna en dos renglones ("Fase 1" / nombre), columna Total al final y nota al pie abajo a la derecha. Se arma clonando esa tabla y quitando columnas; las celdas son FILL y se reparten solas.
+- Ordenar el deck por quién decide (Calimax): primero el contexto, para el contacto que nos recomienda; luego lo que vamos a hacer, con una slide de método ("Sin sorpresas") para quien aprueba; al final cómo se identifica el éxito, con indicadores medibles, para el dueño. No meter cálculos de retorno con márgenes supuestos: Esteban los quitó por riesgosos.
+- Para que la junta sea conversación y no lectura: la historia principal en una fila; el detalle operativo (responsabilidades, forma de trabajo, opcionales, términos) en una fila "Anexo"; slides de una sola pregunta ("Para platicar") al cierre de cada bloque; un caso de estudio corto (3 o 4 slides) justo donde prueba lo que se acaba de decir. Las slides viejas van a una fila "Archivo", no al final de la fila del cliente. Todo el deck en español, casos incluidos.
+- Tono de titulares: editorial, tipo Monocle. Secciones en afirmativo y sin arrogancia ("Contexto actual", "Lo que vamos a hacer", "Identificando el éxito", "Portafolio"), nunca "El problema / La solución". Antes de las tablas, una escena concreta del cliente con el proyecto ya resuelto. No sacar slides de un caso de estudio de su fila; si se necesita prueba en la historia, usar el testimonio o la lista de clientes.
+
 **Detalles técnicos que ya costaron tiempo:**
 
 - `get_metadata` no funciona en Slides. Inspecciona con scripts de `use_figma` y lee IDs de texto antes de editar.
 - Fuente principal: Instrument Sans (Regular, Medium, Bold). Carga la fuente antes de editar.
 - La fuente **Supply** (etiquetas W1, W2… y E1, E2… del cronograma) no se puede cargar. No cambies su texto; solo mueve u oculta esos nodos.
-- El pie de página es un componente. El texto "Title of the presentation" se cambia con override por fila, nunca en el componente principal, porque cambia todas las filas. Cleber = "CLEBER", Click&Ship = "C&S".
+- El pie de página es un componente. El texto "Title of the presentation" se cambia con override por fila, nunca en el componente principal, porque cambia todas las filas. Cleber = "CLEBER", Click&Ship = "C&S", Calimax = "CALIMAX". Al terminar, revisa que los pies de la fila sigan con el nombre correcto: el 24 sep 2026 todas las filas amanecieron con "Salvaje".
 - Naranja de marca: `{r:1, g:0.3725, b:0.0039}`.
 - Listas con viñetas: después de cambiar `characters`, aplica `setRangeListOptions(start,end,{type:'UNORDERED'})` y `setRangeIndentation(start,end,nivel)` línea por línea.
 - Cronograma: la grilla va de x=162 a x=1880 en 12 columnas. Para proyectos cortos, usa 2 columnas por semana y oculta las etiquetas sobrantes.
 - Toma screenshot de cada slide editada y revisa que nada se desborde.
+- Al cambiar el texto de una capa, Figma puede borrarle el nombre ("Slide number" queda sin nombre). Para renumerar, busca los números por posición (texto de 12 pt abajo a la derecha), no por nombre.
+- Al terminar, corre una verificación de todo el archivo: cada monto contra la lista de montos válidos, restos de textos viejos, números de slide y capas ocultas que quedaron en slides clonadas.
 
 ## 4. Cotización en Odoo (formato "Orange")
 
