@@ -119,6 +119,14 @@ Montos sin cambio: $856,566.54 + IVA.
 
 Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8dY6U35jIsKk` (https://www.figma.com/slides/F5JsCibG0E8dY6U35jIsKk). Ahí también están los casos de estudio (Nico de Arca Continental, 21 slides, en inglés; Xignux, 8; Majaztec, 7) y una fila final de "Gracias". Al copiar la fila se perdieron los skips: se volvieron a marcar las 10 slides del v4 y una portada ajena ("Research & Concept for Hardcore Architecture", 21 sep) que quedó como primera slide. La fila del archivo de propuestas `DwUyxMm9NaePTXl0wmOfmW` queda como respaldo; los cambios nuevos van en el archivo nuevo.
 
+### Versión editorial (1 oct, segunda vuelta)
+
+Esteban pidió más sentimiento y más solución, estilo de pitch de Blair Enns (diagnóstico primero, el futuro del cliente antes que los entregables, credenciales como prueba y no como apertura) y titulares con tono de Monocle. Nada de "El problema / El plan / El éxito": sonaba arrogante.
+- Secciones: 1 Lo que vimos, 2 Lo que haríamos, 3 Lo que cambia.
+- Titulares: "Una historia que empezó en el mostrador", "Más argumentos de los que hoy cuenta", "Notas de campo", "265 artículos, una sola marca", "Cinco ideas sobre la mesa", "Calendario", "Cada paso se aprueba antes del siguiente", "Cómo sabremos que funcionó", "Lo que se mide en anaquel", "Las cuentas / Cuándo se paga", "En resumen".
+- Dos escenas nuevas al abrir "Lo que haríamos": "Un sábado de diciembre en Calimax" (el parrillero en la carnicería ya resuelta) y "Max Select, marzo de 2027" (su equipo lanza un detergente con el manual, sin agencia).
+- Prueba: testimonio de Liz Aguilera y lista de clientes después del método. El caso Nico volvió completo a su fila.
+
 ### Versión para conversación (1 oct)
 
 Esteban la sentía rígida y pidió más storytelling. Filas del archivo `F5JsCibG0E8dY6U35jIsKk`:
