@@ -115,6 +115,10 @@ Cambios del 30 sep, después de revisar correo y calendario:
 
 Montos sin cambio: $856,566.54 + IVA.
 
+### Archivo de presentación (1 oct)
+
+Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8dY6U35jIsKk` (https://www.figma.com/slides/F5JsCibG0E8dY6U35jIsKk). Ahí también están los casos de estudio (Nico de Arca Continental, 21 slides, en inglés; Xignux, 8; Majaztec, 7) y una fila final de "Gracias". Al copiar la fila se perdieron los skips: se volvieron a marcar las 10 slides del v4 y una portada ajena ("Research & Concept for Hardcore Architecture", 21 sep) que quedó como primera slide. La fila del archivo de propuestas `DwUyxMm9NaePTXl0wmOfmW` queda como respaldo; los cambios nuevos van en el archivo nuevo.
+
 ### Estructura en tres actos (30 sep, noche)
 
 Esteban la pidió pensando en quién decide: Luisa necesita que recomendarnos no la deje mal (el problema bien entendido), Natalia necesita menos riesgo (el plan delineado) y José Fimbres necesita ver retorno (el éxito como inversión). El índice quedó en 3 secciones: 1 El problema, 2 El plan, 3 El éxito.
