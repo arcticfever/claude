@@ -186,6 +186,16 @@ No incluye planos mecánicos, salidas a imprenta, pruebas de color ni adaptació
 - **Entrada:** solo la sección Fase 1 de la Cotización 1 ($147,960.93) y la Etapa 1 de la Cotización 2 ($111,928.98), sin el módulo Max Grill. Subtotal $259,889.91 · IVA $41,582.39 · Total $301,472.30. Nota: "Tiempo total: 7 semanas. No incluye desarrollo creativo, tienda ni campaña de temporada."
 - **Completa:** Recomendada + cotización de foto y video ($87,906.00) + cotización Partners [Transformación] 3 × $28,704.00 = $86,112.00, con Plan recurrente Mensual de marzo a mayo 2027. Subtotal $1,030,584.54 · IVA $164,893.53 · Total $1,195,478.07.
 
+## Opción Max Select solo diseño (pedida por Natalia, 1 oct)
+
+Cotización aparte. Mismas partidas de la Etapa 2 y la Etapa 3 de la Cotización 2, sin la Etapa 1.
+
+Total esperado: **Subtotal $338,079.67 · IVA $54,092.75 · Total $392,172.42**
+
+- Sección "Identidad y Empaque" ($249,725.99): Identidad de Marca 1 × $30,396.86 · Logotipo 1 × $18,705.76 · Iconografía 1 × $9,352.88 · [DES-01] Aplicación de Marca 3 × $5,845.55 · Empaque 9 × $18,705.76 · Project Management 1 × $5,382.00. Descripción: misma de la Etapa 2, con "ETD 6 semanas: 13 oct al 20 nov".
+- Sección "Manual de Uso y Capacitación" ($88,353.68): Manual de Identidad 2 × $28,058.64 · Workshop de Alineación 2 × $12,470.40 · Junta Quincenal 2 × $956.80 · Project Management 1 × $5,382.00. Descripción: misma de la Etapa 3, con "ETD 3 semanas: 23 nov al 10 dic. Acompañamiento en enero".
+- Nota: "Listo el 10 de diciembre. Sin estrategia ni campaña. Planos mecánicos y preprensa se cotizan aparte."
+
 ## Opcionales (solo si los aprueban, cada uno en su propia cotización)
 
 - Sesión de foto y video: [PRO-01] Pre Producción 1 × $23,322.00 · [PRO-02] Producción 8 × $3,588.00 · Post Producción (50 Fotos) 1 × $14,352.00 · [PRO-03] Film Editing 1 × $14,352.00 · [PRO-04] Color Correction 2 × $3,588.00 = $87,906.00

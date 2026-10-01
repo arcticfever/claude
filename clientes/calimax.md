@@ -130,6 +130,12 @@ Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8
 - Errores en voz: la Completa se dijo "1,30,000"; Partners "dos meses" (son tres); Nico "130 promotores" (el deck dice 97).
 - Opción nueva calculada: Max Select solo diseño = Etapa 2 + Etapa 3 = $338,079.67 + IVA ($392,172.42). Con arquitectura y principios rectores: $350,838.07 + IVA.
 
+### Seguimiento (1 oct, noche)
+
+- Slide "Max Select · Diseño" agregada después de Opciones (diseño de Opciones de Esteban): Identidad y Empaque $249.7K (13 oct al 20 nov) + Manual y Capacitación $88.4K (23 nov al 10 dic) = $338.1K + IVA. Listo el 10 de diciembre.
+- Borrador de correo a Luisa y Natalia (CC Paola), "Max Select solo diseño y lo que entra en 2026": opción de solo diseño, carnicería con estrategia y concepto antes del 10 dic y tienda en enero, la carnicería se construye sobre su proyecto de estandarización, fecha de decisión miércoles 7 oct. Falta adjuntar la slide en PDF.
+- Pendiente: el calendario del deck sigue a abril; el correo ya promete estrategia y concepto de carnicería antes del 10 dic.
+
 ### Consenso final (1 oct)
 
 Lectura completa del recorrido activo y consenso con el canon (Enns, Hormozi, Chris Do, Bravo, Schwartz, Cialdini): lista para presentar, ~86/100. Ajustes finales: avisos legales solo en la slide final de Gracias (Esteban la rediseñó con "Gracias" en varios idiomas); notas de campo de la segunda tienda conectadas con la guía de atención de la Fase 1. Probabilidad estimada de cerrar al menos la Entrada: 65 a 75% (juicio, no dato).
