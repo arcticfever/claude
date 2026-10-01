@@ -101,6 +101,22 @@ Opcionales: salidas a imprenta y preprensa (se cotiza aparte), sesión de foto y
 
 Decisiones de Esteban (24 sep): empaques y piezas como diseño y visualización con editables en medidas estándar, igual que Brands&People; salidas a imprenta como opcional. Max Grill como precio tachado (en Odoo: partidas con 100% de descuento). Sin ajuste comercial. Aviso de confidencialidad y privacidad al final.
 
+## Propuesta v5.1 (30 sep 2026, versión para presentar)
+
+La fila CALIMAX se borró por accidente y Esteban la restauró desde el historial de versiones. La versión restaurada ya traía sus cambios posteriores al v5: índice de 4 secciones (1 Contexto y Necesidad, 2 Propuesta Carnicería, 3 Propuesta Max Select, 4 Resumen Ejecutivo) como separadores, fotos en Líneas de acción, Hipótesis y Responsabilidades rediseñadas, sin portada de alcance. Esa estructura se queda.
+
+Cambios del 30 sep, después de revisar correo y calendario:
+- Las slides del v4 (resumen ejecutivo con $878.5K, tarjetas, desgloses) volvieron activas con la restauración; se marcaron como skipped al final de la fila.
+- Arranque movido del 5 al martes 13 de octubre: NDA sin firmar, Esteban en CDMX el 6 (Finso) y en Miami del 8 al 12. Fechas clave: arranque y visita a Tijuana 13 oct, estrategia de carnicería 6 nov, concepto 27 nov, piezas de Navidad 4 dic, empaques de Max Select 18 dic, cierre de carnicería, manual y capacitación en enero (pausa del 21 dic al 1 ene). Acompañamiento de Max Select en febrero.
+- Carta dirigida a Luisa y Natalia, porque las dos están en la junta.
+- Separador "4 Resumen Ejecutivo" antes del cronograma.
+- Cierre "Gracias" con siguientes pasos (confirmar alcance; NDA, orden de compra y anticipo; arranque el 13 oct) y avisos de confidencialidad, derechos y privacidad.
+- Pies de página de Salvaje, Click&Ship y CLEBER corregidos (decían "Calimax").
+
+Montos sin cambio: $856,566.54 + IVA.
+
+Junta "Calimax+ArcticFever / Revisión de Propuesta": jueves 1 oct, 5 a 6 pm Monterrey (4 pm Tijuana), Google Meet, con Luisa y Natalia (las dos aceptaron). El borrador de correo a Luisa (25 sep) pide fecha para presentar; hay que reescribirlo después de la junta.
+
 ## Supuestos por validar con Esteban
 
 - Términos y condiciones de la v5 son borrador: anticipo 50/50, pago a 30 días, 10 días hábiles para aprobar, rutas no elegidas propiedad de Arctic, uso en portafolio. Validar con Paola.
@@ -108,7 +124,7 @@ Decisiones de Esteban (24 sep): empaques y piezas como diseño y visualización 
 - Imágenes con IA cotizadas con el producto "Ilustraciones" ($9,352.88 por 10 imágenes).
 - Adaptación de artículos a 50% del precio de lista: requiere descuento de línea en Odoo.
 - Qué incluye exactamente Partners [Transformación] en volumen de piezas; plazo mínimo de 3 meses.
-- Navidad en tienda depende de que los proveedores de impresión de Calimax produzcan en la primera semana de diciembre.
+- Navidad en tienda depende de que los proveedores de impresión de Calimax produzcan en la segunda semana de diciembre (piezas entregadas el 4 dic).
 - Asignación de ferretería y mascotas a Hogar y farmacia a Cuidado.
 
 ## Visita de cliente misterioso (24 sep 2026, noche)
