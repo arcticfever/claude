@@ -115,9 +115,23 @@ Cambios del 30 sep, después de revisar correo y calendario:
 
 Montos sin cambio: $856,566.54 + IVA.
 
+### Estructura en tres actos (30 sep, noche)
+
+Esteban la pidió pensando en quién decide: Luisa necesita que recomendarnos no la deje mal (el problema bien entendido), Natalia necesita menos riesgo (el plan delineado) y José Fimbres necesita ver retorno (el éxito como inversión). El índice quedó en 3 secciones: 1 El problema, 2 El plan, 3 El éxito.
+
+Orden (28 slides activas): portada, carta, clientes, testimonio | 1 El problema: contexto carnicería, hipótesis, visitas 01 y 02, contexto Max Select | 2 El plan: líneas de acción, responsabilidades, forma de trabajo, tabla carnicería, tabla Max Select, empaque, manual, cronograma, cómo cuidamos el riesgo | 3 El éxito: qué medimos en carnicería, qué medimos en Max Select, por qué es una inversión, resumen de propuesta, opcionales, términos, gracias.
+
+Slides nuevas:
+- Cómo cuidamos el riesgo: aprobación por fase (si se detiene se factura lo trabajado), focus group antes de diseñar piezas, avance cada viernes, precio cerrado por fase. Cita de Luisa: "Pasan dos semanas y es como, ¿en qué vamos?".
+- El éxito · Carnicería: venta por tienda contra año anterior, penetración en el ticket, mezcla de cortes. Línea base en la Fase 1; revisión al cierre, a los 3 y a los 6 meses.
+- El éxito · Max Select: participación en la venta de sus categorías, lanzamientos que el equipo interno saca solo, consistencia en anaquel.
+- Por qué es una inversión: carnicería se paga en un año con $45 más de venta de carne al día por tienda; Max Select con $472 más al mes por artículo en toda la cadena; con 400 artículos el sistema cuesta $1,125 por artículo contra $18.7K de un empaque suelto.
+
 Junta "Calimax+ArcticFever / Revisión de Propuesta": jueves 1 oct, 5 a 6 pm Monterrey (4 pm Tijuana), Google Meet, con Luisa y Natalia (las dos aceptaron). El borrador de correo a Luisa (25 sep) pide fecha para presentar; hay que reescribirlo después de la junta.
 
 ## Supuestos por validar con Esteban
+
+- Cálculo de retorno: 100 tiendas con carnicería, margen bruto de 25% en carne y 30% en marca propia, 265 artículos, sin IVA. Son supuestos nuestros; en la slide dice que se rehacen en la Fase 1 con números de Calimax.
 
 - Términos y condiciones de la v5 son borrador: anticipo 50/50, pago a 30 días, 10 días hábiles para aprobar, rutas no elegidas propiedad de Arctic, uso en portafolio. Validar con Paola.
 - Salidas a imprenta y preprensa sin precio ("se cotiza aparte").

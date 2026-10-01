@@ -60,6 +60,7 @@ Archivo `DwUyxMm9NaePTXl0wmOfmW`. Carga antes la skill `figma-use` y `figma-use-
 - Entregables concretos y contables ("12 piezas", "9 empaques", "2 guiones de 20 segundos"). Nada de "plataforma", "presentados en persona" o "calendario anual" sin decir qué incluye.
 - Editables y plantillas en Illustrator e InDesign (CMYK). Nunca ofrecer Figma como formato de entrega de impresos.
 - "Desglose" y "Link al desglose" solo en slides con precios.
+- Ordenar el deck por quién decide (Calimax v5.1): 1 El problema, para el contacto que nos recomienda; 2 El plan, con una slide de cómo cuidamos el riesgo, para quien aprueba; 3 El éxito, con indicadores y cuándo se paga la inversión, para el dueño. Los cálculos de retorno llevan sus supuestos escritos en la slide.
 
 **Detalles técnicos que ya costaron tiempo:**
 
