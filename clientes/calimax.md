@@ -123,7 +123,7 @@ Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8
 
 Cambios pedidos por Esteban: opciones tipo Enns, quitar "Cuándo se paga" (riesgoso, otro tema), tablas con el diseño de su slide 55 y menos repetición de conceptos y dinero.
 - Tablas de Max Select, Opciones y Opcionales (anexo) rehechas con el diseño de la tabla de Carnicería (slide 55). La 55 quedó skipped en su propia fila porque es idéntica a la #16.
-- "Cuándo se paga" y "En resumen" eliminadas. Ahora cada monto aparece una vez: precio por fase en la tabla de cada proyecto y total por opción en Opciones.
+- "Cuándo se paga" y "En resumen" eliminadas. Las tablas de Carnicería y Max Select quedaron solo con alcance (sin inversión ni total; Max Grill dice "Incluido sin costo" en el encabezado). El dinero se ve una sola vez, en Opciones. Esteban: "¿desglosas el precio y luego te vas por las opciones? ya no entendí".
 - Opciones (todas + IVA): Completa $1,030,584.54 (los dos proyectos + sesión de foto y video $87,906 + Partners [Transformación] 3 meses $86,112), Recomendada $856,566.54 (los dos proyectos), Entrada $259,889.91 (Fase 1 de Carnicería + Etapa 1 de Max Select, sin Max Grill, 5 semanas, sin Navidad). Preprensa no entra en ninguna: no hay producto con precio en el catálogo y sigue como "se cotiza aparte".
 - Repetición recortada: objetivos de contexto ya no repiten "se explique solo" ni "265 a 400"; Método pasó a "Sin sorpresas" sin decir tres veces lo de la aprobación por fase; "Principe" corregido a "Principio".
 - Separador "4 Portafolio" agregado al inicio de la fila Caso Nico. Números de slide corregidos.
