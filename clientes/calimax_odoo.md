@@ -32,8 +32,8 @@ Entrevistas con dirección, carniceros y planta PPC
 Competencia en Baja California y Sonora
 Focus group con parrillero y guisado diario
 Posicionamiento, mensajes por perfil e idea rectora
-Estándar de mostrador para las más de 110 tiendas (incluido sin costo)
-Entregable: PDF con estrategia, 2 o 3 rutas de concepto y estándar de mostrador
+Guía de atención para carniceros: cómo saludar, preguntar y recomendar el corte (incluida sin costo)
+Entregable: PDF con estrategia, 2 o 3 rutas de concepto y guía de atención para carniceros
 ETD 6 semanas
 ```
 
