@@ -119,6 +119,16 @@ Montos sin cambio: $856,566.54 + IVA.
 
 Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8dY6U35jIsKk` (https://www.figma.com/slides/F5JsCibG0E8dY6U35jIsKk). Ahí también están los casos de estudio (Nico de Arca Continental, 21 slides, en inglés; Xignux, 8; Majaztec, 7) y una fila final de "Gracias". Al copiar la fila se perdieron los skips: se volvieron a marcar las 10 slides del v4 y una portada ajena ("Research & Concept for Hardcore Architecture", 21 sep) que quedó como primera slide. La fila del archivo de propuestas `DwUyxMm9NaePTXl0wmOfmW` queda como respaldo; los cambios nuevos van en el archivo nuevo.
 
+### Tiempos más largos (1 oct, noche)
+
+Esteban: "está muy apretado el tiempo, 2 semanas más por fase si lo queremos hacer bien". Cada fase creció 2 semanas; los precios no cambian.
+- Carnicería: F1 6 semanas (estrategia 20 nov), Max Grill 4 en paralelo, F2 5 (concepto 8 ene), F3 6 (cierre 19 feb). 17 semanas de trabajo.
+- Max Select: E1 6 (27 nov), E2 8 (empaques 5 feb), E3 5 (manual y capacitación 12 mar), acompañamiento hasta el 9 abr. 19 semanas más 1 mes.
+- Pausa del 21 dic al 1 ene. Visitas a Tijuana en las semanas 1 y 6; rodaje opcional en la semana 12.
+- Navidad 2026 ya no alcanza: la Fase 3 pasó a "Tienda y temporada" (campaña de temporada, 1 concepto en 6 piezas). Carta sin la mención a Navidad; escenas en "Un sábado de marzo" y "Max Select, mayo de 2027".
+- Opciones: Completa octubre a mayo (Partners de marzo a mayo), Recomendada octubre a abril, Entrada 7 semanas.
+- Cronograma rehecho con columnas de dos semanas y fechas.
+
 ### v5.2 con opciones (1 oct, tarde)
 
 Cambios pedidos por Esteban: opciones tipo Enns, quitar "Cuándo se paga" (riesgoso, otro tema), tablas con el diseño de su slide 55 y menos repetición de conceptos y dinero.
@@ -163,7 +173,8 @@ Junta "Calimax+ArcticFever / Revisión de Propuesta": jueves 1 oct, 5 a 6 pm Mon
 
 ## Supuestos por validar con Esteban
 
-- Partners [Transformación] en la opción Completa: 3 meses (enero a marzo), el mínimo que dice la slide de opcionales. Confirmar con Paola.
+- Partners [Transformación] en la opción Completa: 3 meses (marzo a mayo), el mínimo que dice la slide de opcionales. Confirmar con Paola.
+- Navidad fuera del alcance por los tiempos nuevos. Si Calimax la necesita, habría que acordar una pieza rápida aparte.
 
 - Términos y condiciones de la v5 son borrador: anticipo 50/50, pago a 30 días, 10 días hábiles para aprobar, rutas no elegidas propiedad de Arctic, uso en portafolio. Validar con Paola.
 - Salidas a imprenta y preprensa sin precio ("se cotiza aparte").

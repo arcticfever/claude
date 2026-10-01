@@ -32,7 +32,7 @@ Competencia en Baja California y Sonora
 Focus group con parrillero y guisado diario
 Posicionamiento, mensajes por perfil e idea rectora
 Entregable: PDF con estrategia y 2 o 3 rutas de concepto
-ETD 4 semanas
+ETD 6 semanas
 ```
 
 ### Sección: Módulo Max Grill (incluido)
@@ -46,7 +46,7 @@ ETD 4 semanas
 Arquitectura de Max Grill frente a la carnicería y Max Select
 Reglas para futuras submarcas cárnicas
 Incluido sin costo
-ETD 2 semanas, en paralelo a la Fase 1
+ETD 4 semanas, en paralelo a la Fase 1
 ```
 
 ### Sección: Fase 2 · Desarrollo Creativo ($127,600.36)
@@ -66,10 +66,10 @@ Identidad de la carnicería: tono, tipografía, color y orden de sellos
 Guía de foto y video
 2 guiones de 20 segundos: radio y pantallas
 2 Rondas de revisión
-ETD 3 semanas
+ETD 5 semanas
 ```
 
-### Sección: Fase 3 · Tienda y Navidad ($130,996.60)
+### Sección: Fase 3 · Tienda y temporada ($130,996.60)
 
 | Producto | Cant. | Precio |
 |---|---|---|
@@ -83,16 +83,16 @@ ETD 3 semanas
 12 piezas: POP, uniformes, lona, pantalla y bolsa de despacho
 Señalización de las 6 zonas, en tienda grande y chica
 Guía de implementación en tienda
-Navidad: 1 concepto en 6 piezas
+Campaña de temporada: 1 concepto en 6 piezas
 Entrega en PDF y editables en medidas estándar
 2 Rondas de revisión
-ETD 4 semanas
+ETD 6 semanas
 ```
 
 ### Nota
 
 ```
-Tiempo total: 11 semanas desde el arranque.
+Tiempo total: 17 semanas de trabajo desde el arranque, más la pausa del 21 de diciembre al 1 de enero.
 Arranque sujeto a firma de NDA, orden de compra y anticipo.
 No incluye salidas a imprenta, impresión, instalación, medios, pauta, producción audiovisual ni creadores.
 Viáticos a Tijuana a costo real contra comprobantes.
@@ -123,7 +123,7 @@ Benchmark de marcas propias en México y Estados Unidos
 Auditoría de anaquel
 Relación con Calimax y reglas de nombre
 Entregable: PDF con diagnóstico, estrategia y arquitectura
-ETD 4 semanas
+ETD 6 semanas
 ```
 
 ### Sección: Etapa 2 · Identidad y Empaque ($249,725.99)
@@ -144,7 +144,7 @@ Línea gráfica para Despensa, Hogar y Cuidado
 Visualización y editables en medidas estándar
 No incluye planos mecánicos ni salidas a imprenta
 2 Rondas de revisión
-ETD 6 semanas
+ETD 8 semanas
 ```
 
 ### Sección: Etapa 3 · Manual de Uso y Capacitación ($88,353.68)
@@ -161,13 +161,13 @@ Manual de uso de marca de 10 capítulos
 Plantillas editables en Illustrator e InDesign
 2 capacitaciones al equipo de diseño interno
 Primer mes de acompañamiento
-ETD 3 semanas, más 1 mes de acompañamiento
+ETD 5 semanas, más 1 mes de acompañamiento
 ```
 
 ### Nota
 
 ```
-Tiempo total: 13 semanas más 1 mes de acompañamiento.
+Tiempo total: 19 semanas de trabajo más 1 mes de acompañamiento.
 Arranque sujeto a firma de NDA, orden de compra y anticipo.
 No incluye planos mecánicos, salidas a imprenta, pruebas de color ni adaptación de artículos adicionales (se cotizan aparte).
 ```
@@ -177,8 +177,8 @@ No incluye planos mecánicos, salidas a imprenta, pruebas de color ni adaptació
 ## Opciones presentadas (1 oct)
 
 - **Recomendada:** Cotización 1 + Cotización 2 tal cual. Subtotal $856,566.54 · IVA $137,050.65 · Total $993,617.19.
-- **Entrada:** solo la sección Fase 1 de la Cotización 1 ($147,960.93) y la Etapa 1 de la Cotización 2 ($111,928.98), sin el módulo Max Grill. Subtotal $259,889.91 · IVA $41,582.39 · Total $301,472.30. Nota: "Tiempo total: 5 semanas. No incluye desarrollo creativo, tienda ni Navidad."
-- **Completa:** Recomendada + cotización de foto y video ($87,906.00) + cotización Partners [Transformación] 3 × $28,704.00 = $86,112.00, con Plan recurrente Mensual de enero a marzo 2027. Subtotal $1,030,584.54 · IVA $164,893.53 · Total $1,195,478.07.
+- **Entrada:** solo la sección Fase 1 de la Cotización 1 ($147,960.93) y la Etapa 1 de la Cotización 2 ($111,928.98), sin el módulo Max Grill. Subtotal $259,889.91 · IVA $41,582.39 · Total $301,472.30. Nota: "Tiempo total: 7 semanas. No incluye desarrollo creativo, tienda ni campaña de temporada."
+- **Completa:** Recomendada + cotización de foto y video ($87,906.00) + cotización Partners [Transformación] 3 × $28,704.00 = $86,112.00, con Plan recurrente Mensual de marzo a mayo 2027. Subtotal $1,030,584.54 · IVA $164,893.53 · Total $1,195,478.07.
 
 ## Opcionales (solo si los aprueban, cada uno en su propia cotización)
 
