@@ -60,9 +60,11 @@ Archivo `DwUyxMm9NaePTXl0wmOfmW`. Carga antes la skill `figma-use` y `figma-use-
 - Entregables concretos y contables ("12 piezas", "9 empaques", "2 guiones de 20 segundos"). Nada de "plataforma", "presentados en persona" o "calendario anual" sin decir qué incluye.
 - Editables y plantillas en Illustrator e InDesign (CMYK). Nunca ofrecer Figma como formato de entrega de impresos.
 - "Desglose" y "Link al desglose" solo en slides con precios.
-- Ordenar el deck por quién decide (Calimax v5.1): 1 El problema, para el contacto que nos recomienda; 2 El plan, con una slide de cómo cuidamos el riesgo, para quien aprueba; 3 El éxito, con indicadores y cuándo se paga la inversión, para el dueño. Los cálculos de retorno llevan sus supuestos escritos en la slide.
+- Opciones al cierre, como pide Blair Enns: Completa, Recomendada (en naranja, al centro) y Entrada, armadas solo con fases y partidas del catálogo. Cada monto aparece una sola vez en el deck: precio por fase en la tabla de cada proyecto, total por opción en la slide de opciones. Sin slide de resumen que repita los totales.
+- Diseño de tablas (Calimax, slide 55 de Esteban): sin cajas, líneas horizontales finas, etiquetas de fila a la izquierda, encabezados de columna en dos renglones ("Fase 1" / nombre), columna Total al final y nota al pie abajo a la derecha. Se arma clonando esa tabla y quitando columnas; las celdas son FILL y se reparten solas.
+- Ordenar el deck por quién decide (Calimax): primero el contexto, para el contacto que nos recomienda; luego lo que vamos a hacer, con una slide de método ("Sin sorpresas") para quien aprueba; al final cómo se identifica el éxito, con indicadores medibles, para el dueño. No meter cálculos de retorno con márgenes supuestos: Esteban los quitó por riesgosos.
 - Para que la junta sea conversación y no lectura: la historia principal en una fila; el detalle operativo (responsabilidades, forma de trabajo, opcionales, términos) en una fila "Anexo"; slides de una sola pregunta ("Para platicar") al cierre de cada bloque; un caso de estudio corto (3 o 4 slides) justo donde prueba lo que se acaba de decir. Las slides viejas van a una fila "Archivo", no al final de la fila del cliente. Todo el deck en español, casos incluidos.
-- Tono de titulares: editorial, tipo Monocle. Secciones humildes ("Lo que vimos", "Lo que haríamos", "Lo que cambia"), nunca "El problema / La solución". Antes de las tablas, una escena concreta del cliente con el proyecto ya resuelto. No sacar slides de un caso de estudio de su fila; si se necesita prueba en la historia, usar el testimonio o la lista de clientes.
+- Tono de titulares: editorial, tipo Monocle. Secciones en afirmativo y sin arrogancia ("Contexto actual", "Lo que vamos a hacer", "Identificando el éxito", "Portafolio"), nunca "El problema / La solución". Antes de las tablas, una escena concreta del cliente con el proyecto ya resuelto. No sacar slides de un caso de estudio de su fila; si se necesita prueba en la historia, usar el testimonio o la lista de clientes.
 
 **Detalles técnicos que ya costaron tiempo:**
 
@@ -74,6 +76,8 @@ Archivo `DwUyxMm9NaePTXl0wmOfmW`. Carga antes la skill `figma-use` y `figma-use-
 - Listas con viñetas: después de cambiar `characters`, aplica `setRangeListOptions(start,end,{type:'UNORDERED'})` y `setRangeIndentation(start,end,nivel)` línea por línea.
 - Cronograma: la grilla va de x=162 a x=1880 en 12 columnas. Para proyectos cortos, usa 2 columnas por semana y oculta las etiquetas sobrantes.
 - Toma screenshot de cada slide editada y revisa que nada se desborde.
+- Al cambiar el texto de una capa, Figma puede borrarle el nombre ("Slide number" queda sin nombre). Para renumerar, busca los números por posición (texto de 12 pt abajo a la derecha), no por nombre.
+- Al terminar, corre una verificación de todo el archivo: cada monto contra la lista de montos válidos, restos de textos viejos, números de slide y capas ocultas que quedaron en slides clonadas.
 
 ## 4. Cotización en Odoo (formato "Orange")
 

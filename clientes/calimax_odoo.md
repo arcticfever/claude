@@ -174,6 +174,12 @@ No incluye planos mecánicos, salidas a imprenta, pruebas de color ni adaptació
 
 ---
 
+## Opciones presentadas (1 oct)
+
+- **Recomendada:** Cotización 1 + Cotización 2 tal cual. Subtotal $856,566.54 · IVA $137,050.65 · Total $993,617.19.
+- **Entrada:** solo la sección Fase 1 de la Cotización 1 ($147,960.93) y la Etapa 1 de la Cotización 2 ($111,928.98), sin el módulo Max Grill. Subtotal $259,889.91 · IVA $41,582.39 · Total $301,472.30. Nota: "Tiempo total: 5 semanas. No incluye desarrollo creativo, tienda ni Navidad."
+- **Completa:** Recomendada + cotización de foto y video ($87,906.00) + cotización Partners [Transformación] 3 × $28,704.00 = $86,112.00, con Plan recurrente Mensual de enero a marzo 2027. Subtotal $1,030,584.54 · IVA $164,893.53 · Total $1,195,478.07.
+
 ## Opcionales (solo si los aprueban, cada uno en su propia cotización)
 
 - Sesión de foto y video: [PRO-01] Pre Producción 1 × $23,322.00 · [PRO-02] Producción 8 × $3,588.00 · Post Producción (50 Fotos) 1 × $14,352.00 · [PRO-03] Film Editing 1 × $14,352.00 · [PRO-04] Color Correction 2 × $3,588.00 = $87,906.00

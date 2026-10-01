@@ -119,6 +119,17 @@ Montos sin cambio: $856,566.54 + IVA.
 
 Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8dY6U35jIsKk` (https://www.figma.com/slides/F5JsCibG0E8dY6U35jIsKk). Ahí también están los casos de estudio (Nico de Arca Continental, 21 slides, en inglés; Xignux, 8; Majaztec, 7) y una fila final de "Gracias". Al copiar la fila se perdieron los skips: se volvieron a marcar las 10 slides del v4 y una portada ajena ("Research & Concept for Hardcore Architecture", 21 sep) que quedó como primera slide. La fila del archivo de propuestas `DwUyxMm9NaePTXl0wmOfmW` queda como respaldo; los cambios nuevos van en el archivo nuevo.
 
+### v5.2 con opciones (1 oct, tarde)
+
+Cambios pedidos por Esteban: opciones tipo Enns, quitar "Cuándo se paga" (riesgoso, otro tema), tablas con el diseño de su slide 55 y menos repetición de conceptos y dinero.
+- Tablas de Max Select, Opciones y Opcionales (anexo) rehechas con el diseño de la tabla de Carnicería (slide 55). La 55 quedó skipped en su propia fila porque es idéntica a la #16.
+- "Cuándo se paga" y "En resumen" eliminadas. Ahora cada monto aparece una vez: precio por fase en la tabla de cada proyecto y total por opción en Opciones.
+- Opciones (todas + IVA): Completa $1,030,584.54 (los dos proyectos + sesión de foto y video $87,906 + Partners [Transformación] 3 meses $86,112), Recomendada $856,566.54 (los dos proyectos), Entrada $259,889.91 (Fase 1 de Carnicería + Etapa 1 de Max Select, sin Max Grill, 5 semanas, sin Navidad). Preprensa no entra en ninguna: no hay producto con precio en el catálogo y sigue como "se cotiza aparte".
+- Repetición recortada: objetivos de contexto ya no repiten "se explique solo" ni "265 a 400"; Método pasó a "Sin sorpresas" sin decir tres veces lo de la aprobación por fase; "Principe" corregido a "Principio".
+- Separador "4 Portafolio" agregado al inicio de la fila Caso Nico. Números de slide corregidos.
+- Gracias: el primer paso ahora es "Elegir la opción que mejor les funcione".
+- Filas actuales: CALIMAX (25), Anexo (6), Caso Nico (22 con el separador), Cierre (1), Section (la 55, skipped). Esteban borró Archivo v4, Xignux y Majaztec.
+
 ### Versión editorial (1 oct, segunda vuelta)
 
 Esteban pidió más sentimiento y más solución, estilo de pitch de Blair Enns (diagnóstico primero, el futuro del cliente antes que los entregables, credenciales como prueba y no como apertura) y titulares con tono de Monocle. Nada de "El problema / El plan / El éxito": sonaba arrogante.
