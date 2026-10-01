@@ -157,13 +157,13 @@ Slides nuevas:
 - Cómo cuidamos el riesgo: aprobación por fase (si se detiene se factura lo trabajado), focus group antes de diseñar piezas, avance cada viernes, precio cerrado por fase. Cita de Luisa: "Pasan dos semanas y es como, ¿en qué vamos?".
 - El éxito · Carnicería: venta por tienda contra año anterior, penetración en el ticket, mezcla de cortes. Línea base en la Fase 1; revisión al cierre, a los 3 y a los 6 meses.
 - El éxito · Max Select: participación en la venta de sus categorías, lanzamientos que el equipo interno saca solo, consistencia en anaquel.
-- Por qué es una inversión: carnicería se paga en un año con $45 más de venta de carne al día por tienda; Max Select con $472 más al mes por artículo en toda la cadena; con 400 artículos el sistema cuesta $1,125 por artículo contra $18.7K de un empaque suelto.
+- Por qué es una inversión: carnicería se paga en un año con $45 más de venta de carne al día por tienda; Max Select con $472 más al mes por artículo en toda la cadena; con 400 artículos el sistema cuesta $1,125 por artículo contra $18.7K de un empaque suelto. (Eliminada el 1 oct: Esteban la sintió riesgosa.)
 
 Junta "Calimax+ArcticFever / Revisión de Propuesta": jueves 1 oct, 5 a 6 pm Monterrey (4 pm Tijuana), Google Meet, con Luisa y Natalia (las dos aceptaron). El borrador de correo a Luisa (25 sep) pide fecha para presentar; hay que reescribirlo después de la junta.
 
 ## Supuestos por validar con Esteban
 
-- Cálculo de retorno: 100 tiendas con carnicería, margen bruto de 25% en carne y 30% en marca propia, 265 artículos, sin IVA. Son supuestos nuestros; en la slide dice que se rehacen en la Fase 1 con números de Calimax.
+- Partners [Transformación] en la opción Completa: 3 meses (enero a marzo), el mínimo que dice la slide de opcionales. Confirmar con Paola.
 
 - Términos y condiciones de la v5 son borrador: anticipo 50/50, pago a 30 días, 10 días hábiles para aprobar, rutas no elegidas propiedad de Arctic, uso en portafolio. Validar con Paola.
 - Salidas a imprenta y preprensa sin precio ("se cotiza aparte").
