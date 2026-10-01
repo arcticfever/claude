@@ -119,6 +119,14 @@ Montos sin cambio: $856,566.54 + IVA.
 
 Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8dY6U35jIsKk` (https://www.figma.com/slides/F5JsCibG0E8dY6U35jIsKk). Ahí también están los casos de estudio (Nico de Arca Continental, 21 slides, en inglés; Xignux, 8; Majaztec, 7) y una fila final de "Gracias". Al copiar la fila se perdieron los skips: se volvieron a marcar las 10 slides del v4 y una portada ajena ("Research & Concept for Hardcore Architecture", 21 sep) que quedó como primera slide. La fila del archivo de propuestas `DwUyxMm9NaePTXl0wmOfmW` queda como respaldo; los cambios nuevos van en el archivo nuevo.
 
+### Pasada para subir la calificación sin tocar la oferta (1 oct, noche)
+
+- Carta abre con diagnóstico: "La carnicería de Calimax ya es la mejor de la región. El cliente todavía no lo sabe." El agradecimiento pasó al final.
+- Slide de Equipo después de Método, sin fotos (Esteban preocupado por verse muy jóvenes): Esteban (presenta cada cierre de fase), Paola, Strategy Lead, Creative Director, Diseño, y clientes como respaldo (Arca, Xignux, Grupo SuKarne, Tec).
+- Caso Nico: skipped todo menos separador, portada, impacto y testimonio.
+- Notas de campo con resumen de una línea; contextos de carnicería y Max Select más cortos y en afirmativo ("Vamos a juntarlos...").
+- Calificación estimada contra el canon: 86/100. El techo sin cambiar la oferta es ~88.
+
 ### Última pasada de copy (1 oct)
 
 Lenguaje decisivo aplicado: carta ("Vamos a trabajar los dos proyectos en paralelo, con la carnicería primero. Arrancamos en Tijuana..."), preguntas con segunda línea en gris ("Ajustar dos tiendas es fácil. Lo difícil es que las más de 110 se sientan igual." / "Sin sistema, cada artículo nuevo es un producto suelto."), Gracias "1. Elegir la opción". Esteban reordenó Opciones (Entrada, Recomendada, Completa) y cambió la última pregunta a "¿Cuál es el factor de decisión?".
