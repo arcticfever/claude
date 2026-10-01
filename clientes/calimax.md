@@ -122,7 +122,7 @@ Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8
 ### Versión editorial (1 oct, segunda vuelta)
 
 Esteban pidió más sentimiento y más solución, estilo de pitch de Blair Enns (diagnóstico primero, el futuro del cliente antes que los entregables, credenciales como prueba y no como apertura) y titulares con tono de Monocle. Nada de "El problema / El plan / El éxito": sonaba arrogante.
-- Secciones: 1 Lo que vimos, 2 Lo que haríamos, 3 Lo que cambia.
+- Secciones (actualizadas el 1 oct): 1 Contexto actual, 2 Lo que vamos a hacer (en afirmativo, ley de la atracción; alternativa: Plan de acción), 3 Identificando el éxito, 4 Portafolio (antes eran Lo que vimos, Lo que haríamos y Lo que cambia). Falta una slide separadora del 4.
 - Titulares: "Una historia que empezó en el mostrador", "Más argumentos de los que hoy cuenta", "Notas de campo", "265 artículos, una sola marca", "Cinco ideas sobre la mesa", "Calendario", "Cada paso se aprueba antes del siguiente", "Cómo sabremos que funcionó", "Lo que se mide en anaquel", "Las cuentas / Cuándo se paga", "En resumen".
 - Dos escenas nuevas al abrir "Lo que haríamos": "Un sábado de diciembre en Calimax" (el parrillero en la carnicería ya resuelta) y "Max Select, marzo de 2027" (su equipo lanza un detergente con el manual, sin agencia).
 - Prueba: testimonio de Liz Aguilera y lista de clientes después del método. El caso Nico volvió completo a su fila.
