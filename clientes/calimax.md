@@ -119,6 +119,15 @@ Montos sin cambio: $856,566.54 + IVA.
 
 Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8dY6U35jIsKk` (https://www.figma.com/slides/F5JsCibG0E8dY6U35jIsKk). Ahí también están los casos de estudio (Nico de Arca Continental, 21 slides, en inglés; Xignux, 8; Majaztec, 7) y una fila final de "Gracias". Al copiar la fila se perdieron los skips: se volvieron a marcar las 10 slides del v4 y una portada ajena ("Research & Concept for Hardcore Architecture", 21 sep) que quedó como primera slide. La fila del archivo de propuestas `DwUyxMm9NaePTXl0wmOfmW` queda como respaldo; los cambios nuevos van en el archivo nuevo.
 
+### Versión para conversación (1 oct)
+
+Esteban la sentía rígida y pidió más storytelling. Filas del archivo `F5JsCibG0E8dY6U35jIsKk`:
+- CALIMAX (27 slides, la historia): portada nueva de Esteban, carta | 1 El problema: contexto carnicería, hipótesis, visitas 01 y 02, pregunta "¿Es lo mismo que ven ustedes en sus tiendas?", contexto Max Select, pregunta "¿Qué pasa hoy cuando sale un artículo nuevo de Max Select?" | 2 El plan: líneas de acción, tablas de carnicería y Max Select, cronograma, cómo cuidamos el riesgo, Nico (portada, impacto, testimonio de Liz Aguilera) y clientes como prueba | 3 El éxito: indicadores, por qué es una inversión, resumen, pregunta "¿Qué necesitaría ver José Fimbres para aprobarlo?", gracias.
+- Anexo: responsabilidades, forma de trabajo, empaque, manual, opcionales, términos. Se abren solo si preguntan; van completos en el PDF.
+- Caso Nico, Caso Xignux, Caso Majaztec, Cierre: respaldo. Todo traducido al español, incluida la lista de clientes y el testimonio.
+- Archivo v4: slides viejas, todas skipped.
+Las preguntas y las slides de visita y Nico llevan notas del presentador.
+
 ### Estructura en tres actos (30 sep, noche)
 
 Esteban la pidió pensando en quién decide: Luisa necesita que recomendarnos no la deje mal (el problema bien entendido), Natalia necesita menos riesgo (el plan delineado) y José Fimbres necesita ver retorno (el éxito como inversión). El índice quedó en 3 secciones: 1 El problema, 2 El plan, 3 El éxito.
