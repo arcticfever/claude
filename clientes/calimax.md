@@ -119,6 +119,10 @@ Montos sin cambio: $856,566.54 + IVA.
 
 Esteban movió la fila CALIMAX a un archivo propio de Figma Slides: `F5JsCibG0E8dY6U35jIsKk` (https://www.figma.com/slides/F5JsCibG0E8dY6U35jIsKk). Ahí también están los casos de estudio (Nico de Arca Continental, 21 slides, en inglés; Xignux, 8; Majaztec, 7) y una fila final de "Gracias". Al copiar la fila se perdieron los skips: se volvieron a marcar las 10 slides del v4 y una portada ajena ("Research & Concept for Hardcore Architecture", 21 sep) que quedó como primera slide. La fila del archivo de propuestas `DwUyxMm9NaePTXl0wmOfmW` queda como respaldo; los cambios nuevos van en el archivo nuevo.
 
+### Consenso final (1 oct)
+
+Lectura completa del recorrido activo y consenso con el canon (Enns, Hormozi, Chris Do, Bravo, Schwartz, Cialdini): lista para presentar, ~86/100. Ajustes finales: avisos legales solo en la slide final de Gracias (Esteban la rediseñó con "Gracias" en varios idiomas); notas de campo de la segunda tienda conectadas con la guía de atención de la Fase 1. Probabilidad estimada de cerrar al menos la Entrada: 65 a 75% (juicio, no dato).
+
 ### Pasada para subir la calificación sin tocar la oferta (1 oct, noche)
 
 - Carta abre con diagnóstico: "La carnicería de Calimax ya es la mejor de la región. El cliente todavía no lo sabe." El agradecimiento pasó al final.
