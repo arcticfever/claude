@@ -51,3 +51,8 @@ Entregables concretos: deck de 20 a 35 láminas con notas; kit de campaña con 1
 ## Siguiente paso
 
 Presentar a Débora y Priscila con Mayela. Seguir antes de que cierre el presupuesto de octubre.
+
+## Relacionados
+
+- [Precios de referencia](../referencias/precios.md): montos de esta propuesta frente al resto.
+- [Índice del estudio](../README.md)

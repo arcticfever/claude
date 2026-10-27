@@ -37,3 +37,8 @@ Sub-total $56,954.40 · Cliente Recurrente -10% -$5,695.44 · **Total $51,258.96
 ## Siguiente paso
 
 Junta de 20 minutos con Vero para presentar. Si el proyecto sale bien, el reporte de cuentas creadas después del lanzamiento puede abrir de forma natural la conversación de marketing.
+
+## Relacionados
+
+- [Precios de referencia](../referencias/precios.md): historial de propuestas de Logistorage (2025 y 2026).
+- [Índice del estudio](../README.md)

@@ -2,6 +2,8 @@
 
 Montos sin IVA, en MXN. "Estado" solo se llena cuando se sabe. Actualizar cada vez que se envía o se cierra una propuesta.
 
+Notas de clientes: [Cleber](../clientes/cleber.md) y [Logistorage](../clientes/logistorage.md).
+
 ## Por cliente
 
 | Cliente | Año | Qué | Estructura y montos | Estado |
